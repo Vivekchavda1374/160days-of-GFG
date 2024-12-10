@@ -25,5 +25,5 @@ Join the program today and kickstart your DSA journey:
 [Start GfG 160](https://perfleap.com/GFG160)
 
 ---
-
+<img src="https://t.bkit.co/w_67580b322fc53.gif" />
 Happy Coding! 🚀
